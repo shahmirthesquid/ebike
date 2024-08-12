@@ -53,6 +53,31 @@ I think I forgot to take a picture of this torque arm when it came in. I just in
 ![image](https://github.com/user-attachments/assets/db28d56a-40a0-4189-8133-e52fdd034ded)
 
 
+## Controller
+
+I am using the controller that came with my motor kit. I have a Kunteng 18 mosfet 45A controller. I have gone through about 4 of these bad boys while experimenting with them. I hope no one ever has to light their money on fire like I did. So please learn from my mistakes. 
+
+I have applied Sprayon EL609 Green Insulating Varnish on my ebike controller and 48V-12V DC-DC converter. The controller doesnt fit in my bike, so I have to take the circuit board out of the metal case. This varnish helps ease my mind that there wont' be any water damage.
+https://www.sprayon.com/product/el609-green-insulating-varnish/
+![image](https://github.com/user-attachments/assets/8fa8c018-1483-4d1d-afa3-4766dcb05994)
+![image](https://github.com/user-attachments/assets/a893240e-cc48-49d6-afb8-ec0685bd9533)
+![image](https://github.com/user-attachments/assets/f9804b2b-d3bb-4dd0-a188-7e34d2c0d43c)
+![image](https://github.com/user-attachments/assets/00d41552-d6f8-4273-818d-9a2818a8da53)
+
+
+## Custom Welded Battery Packs
+
+I have 3 battery packs that I've welded up for this bike. I use the K-Weld spot welder powered by some super high power lipo batteries. I think they are graphene lipo batteries but I'd have to pull them out to be sure.
+
+![image](https://github.com/user-attachments/assets/a9a5d567-7ca7-4f04-8d06-b8c5ac212327)
+![image](https://github.com/user-attachments/assets/894e2560-50d1-44ad-a4ca-ef32e1ec5560)
+![image](https://github.com/user-attachments/assets/cac6f47f-1fdb-4cbd-b68c-5165def0d34d)
+![image](https://github.com/user-attachments/assets/ba8ff719-5705-4302-92fd-9d8c39b4ef0e)
+
+
+
+
+
 ## Custom 3D-Printed Vape Helmet 
 
 ![image](https://github.com/user-attachments/assets/e7d39360-7680-4962-8ec7-15c449ffae2f)
