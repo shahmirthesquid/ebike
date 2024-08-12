@@ -28,7 +28,8 @@ All of these took an extreme amount of trial and error
 ![image](https://github.com/user-attachments/assets/826d53b8-6f7e-460f-b45d-96c51279b1c3)
 
 I think I forgot to take a picture of this torque arm when it came in. I just installed it and rode, but it looks like the 3d print above and has the screw to tighten onto the axle like the next torque arm.
-
+![image](https://github.com/user-attachments/assets/e5b9f639-fb4a-454c-8f2d-aebf9231d592)
+found pic
 
 ### Braking Side
 ![image](https://github.com/user-attachments/assets/aeeaf2fe-5f49-4436-977d-50b636964eac)
@@ -83,4 +84,5 @@ I have 3 battery packs that I've welded up for this bike. I use the K-Weld spot 
 ![image](https://github.com/user-attachments/assets/e7d39360-7680-4962-8ec7-15c449ffae2f)
 ![image](https://github.com/user-attachments/assets/d13a400a-036f-4d13-9d7e-18a7c2e3f1f2)
 ![image](https://github.com/user-attachments/assets/df84738e-d66a-47c6-8147-e081fa5f801f)
+![image](https://github.com/user-attachments/assets/eee68628-e774-4608-998f-de6553462bea)
 
