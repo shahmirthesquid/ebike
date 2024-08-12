@@ -58,7 +58,7 @@ found pic
 
 I am using the controller that came with my motor kit. I have a Kunteng 18 mosfet 45A controller. I have gone through about 4 of these bad boys while experimenting with them. I hope no one ever has to light their money on fire like I did. So please learn from my mistakes. 
 
-I have applied Sprayon EL609 Green Insulating Varnish on my ebike controller and 48V-12V DC-DC converter. The controller doesnt fit in my bike, so I have to take the circuit board out of the metal case. This varnish helps ease my mind that there wont' be any water damage.
+I have applied Sprayon EL609 Green Insulating Varnish on my ebike controller and 48V-12V DC-DC converter. The controller doesnt fit in my bike, so I have to take the circuit board out of the metal case. This varnish helps ease my mind that there wont' be any water damage. I've never encountered water damage in my boards. They usually die from me mis-wiring some new feature. The built in LED light signal in the controller only delivers 5v 0.1a or something. So if you actually connect a light you will burn it out like I did multiple times. I am in the process of coming up with a circuit to use that signal to drive a 12v power mosfet. I want to be able to power my RGB LEDS using the controller button. I will likely make a prototype first, and then a proper PCB design. Not sure on ETA as it is a minor detail.
 https://www.sprayon.com/product/el609-green-insulating-varnish/
 ![image](https://github.com/user-attachments/assets/8fa8c018-1483-4d1d-afa3-4766dcb05994)
 ![image](https://github.com/user-attachments/assets/a893240e-cc48-49d6-afb8-ec0685bd9533)
